@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D16AQGxF8XrdFEupw/profile-displaybackgroundimage-shrink_200_800/0/1596202286391?e=2147483647&v=beta&t=JzSJEAKWonGfTVo_Z3toX7vKyVRNkf3oLtbDPlAIPuA)
 <h1 align="center">Hi 👋, I'm Ravindu Gayashan</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rg3000agentk&label=Profile%20views&color=0e75b6&style=flat" alt="rg3000agentk" /> </p>
 
