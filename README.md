@@ -4,6 +4,8 @@
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rg3000agentk&label=Profile%20views&color=0e75b6&style=flat" alt="rg3000agentk" /> </p>
+<p align="left"> <img src="https://e7.pngegg.com/pngimages/329/770/png-clipart-minions-minions.png" alt="rg3000agentk" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/gayashanravindu" target="blank"><img src="https://img.shields.io/twitter/follow/gayashanravindu?logo=twitter&style=for-the-badge" alt="gayashanravindu" /></a> </p>
 
