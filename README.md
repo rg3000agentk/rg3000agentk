@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/rg3000agentk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rg3000agentk" height="30" width="40" /></a>
 <a href="https://twitter.com/gayashanravindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gayashanravindu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravindu gayashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu gayashan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ravindu-gayashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu gayashan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15934920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15934920" height="30" width="40" /></a>
 <a href="https://instagram.com/ravindu_gayashan_3000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravindu_gayashan_3000" height="30" width="40" /></a>
 </p>
