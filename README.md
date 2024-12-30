@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, React-Native**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ravindu-gayashan-27a18a197/](https://www.linkedin.com/in/ravindu-gayashan/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ravindu-gayashan/](https://www.linkedin.com/in/ravindu-gayashan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
